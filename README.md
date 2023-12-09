@@ -3,8 +3,8 @@ My first repository
 # **Shin Godzilla**
 # ![godzilla](https://github.com/Mallari204747/App-dev/assets/153346101/a57f44a6-6d09-42d9-bef8-603c9af3055c) #
 ## Director by 
-## Hideaki Anno
-## Shinji Higuchi
+### Hideaki Anno
+### Shinji Higuchi
 ## Written by
 ## Hideaki Anno
 ## Starring

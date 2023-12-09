@@ -6,13 +6,13 @@ My first repository
 ### Hideaki Anno
 ### Shinji Higuchi
 ## Written by
-## Hideaki Anno
+### Hideaki Anno
 ## Starring
-## Hiroki Hasegawa
-## Yutaka Takenouchi
-## Satomi Ishihara
+### Hiroki Hasegawa
+### Yutaka Takenouchi
+### Satomi Ishihara
 ## Cinematography	
-## Kosuke Yamada
+### Kosuke Yamada
 ## Release dates	
 ## July 25, 2016 (Shinjuku)
 ## Japan
